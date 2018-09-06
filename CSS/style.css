@@ -1,0 +1,49 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    display: block;
+    height: 15%;
+    }
+body {
+     text-align: center;    
+    }
+footer {
+    background: yellow;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 1px solid #999999;
+    }
+.columnas{
+    display: inline-flex;
+    height: 70%;
+    }
+.agrupar{
+    width:80%;
+    border: 1px solid #999999;
+}
+.columnaD{    
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: rgb(136, 255, 0);
+    width:20%;
+    border: 1px solid #999999;
+}
+.header{    
+    background: #fffbd9;
+    border: 1px solid #999999;
+}
+.menu{
+    padding: 5px;
+}
+.menu li {
+    list-style: none;   
+    display: inline-block;
+}
+.section{    
+    background: yellow;
+    padding: 15px;
+}
